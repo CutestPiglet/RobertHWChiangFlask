@@ -43,7 +43,7 @@
   ```
 * Create `runtime.txt` file to specify which version of Python should be used
   ```
-  python-3.7.5
+  python-3.7.13
   ```
 * Install Heroku CLI
 * Log in to Heroku
